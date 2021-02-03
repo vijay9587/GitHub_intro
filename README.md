@@ -17,4 +17,4 @@ this is horizontal line
 - **bold**
 - how to open hyper link
 - [apssd](https://www.apssdc.in)
-- [ciet](http://www.chalapathi.engg.ac.in)
+- [ciet](http://www.chalapathiengg.ac.in)
